@@ -31,4 +31,4 @@ jobs:
       run: |
         mkdir push
         cp -a *[^push] push
-        tcb hosting deploy push -e images-host-5gttxpqa597a3fe3
+        tcb hosting deploy push -e images-8glumyyd4754ac02
